@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\bin\Debug\net5.0\Ciclos.exe
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\bin\Debug\net5.0\Ciclos.deps.json
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\bin\Debug\net5.0\Ciclos.runtimeconfig.json
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\bin\Debug\net5.0\Ciclos.runtimeconfig.dev.json
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\bin\Debug\net5.0\Ciclos.dll
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\bin\Debug\net5.0\ref\Ciclos.dll
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\bin\Debug\net5.0\Ciclos.pdb
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\obj\Debug\net5.0\Ciclos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\obj\Debug\net5.0\Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\obj\Debug\net5.0\Ciclos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\obj\Debug\net5.0\Ciclos.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\obj\Debug\net5.0\Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\obj\Debug\net5.0\Ciclos.dll
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\obj\Debug\net5.0\ref\Ciclos.dll
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\obj\Debug\net5.0\Ciclos.pdb
+C:\Users\USUARIO\Documents\Proyectos\clasesC#\Ciclos\obj\Debug\net5.0\Ciclos.genruntimeconfig.cache
